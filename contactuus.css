@@ -1,0 +1,27 @@
+body{
+    background-image:url("bg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+   
+}
+#options{
+    float:right;
+    padding-top: 30px;
+
+}
+div a{
+    color: green;
+    padding: 20px;
+    font-size: 18px;
+    text-decoration: none;
+}
+#navbar{
+    border: 2px solid white;
+    width: 100%;
+    background-color: black;
+}
+a:hover{
+    color: red;
+}

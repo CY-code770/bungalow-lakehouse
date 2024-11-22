@@ -1,0 +1,55 @@
+#options{
+    float:right;
+    padding-top: 30px;
+
+}
+div a{
+    color: green;
+    padding: 20px;
+    font-size: 18px;
+    text-decoration: none;
+}
+#navbar{
+    border: 2px solid white;
+    width: 100%;
+    background-color: black;
+}
+body{
+    background-image:url("bg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+form{
+    margin-top:100px;
+    background-color: white;
+    border:3px solid black;
+    border-radius:20px;
+    width:30%;
+    padding:20px;
+    
+}
+#displayImg{
+    width:40%;
+}
+table,td{
+    padding:15px;
+}
+label{
+    font-family:cursive;
+    font-size:20px;
+}
+input{
+    padding:8px;
+    border-radius:50px;
+    background-color: gainsboro;
+}
+h2{
+    font-family:cursive;
+}
+a:hover{
+    color: red;
+}
+
